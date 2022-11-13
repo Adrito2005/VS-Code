@@ -45,12 +45,8 @@ def updt():
                 f.write(line)
                 f.write('\n')
     
-    def old():
-        print("Howdy sir")
-        x1 = str(input("Please enter your Registration number (REG. Number)"))
-        
 
-        print("I see you want to update your data")
+    print("I see you want to update your data")
     check = str(input("Are you new? (Yes[Y] --- No[N])")).upper()
     if (check == "Y"):
         new()
