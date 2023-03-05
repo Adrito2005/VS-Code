@@ -1,0 +1,23 @@
+1. Swapping using temporary variable
+2. Swapping without using temporary variable
+3. Calculation of grade using if elif statement
+4. Converter from celsius to farhenite
+5. Find factorial of a number
+6. sum of series :  1 + x + x^2/2 + x^3/3 ....
+7. Sum of series : 1 + x + x^2/2! + x^3/3!....
+8. To check weather a program is prim or not
+9. To check weather a string is palindrome or not
+10. To fins the sum of digits of a number
+11. Swapping of first half of a list with the second half of the list
+12. Check a number is happy number or not
+13. To find the sum of a armstrong number in a list
+14. To check weather a number is spy-number or not 
+15. Find the sum of diagonals in a 2d list
+16. To find the sum of all the boundary elements in a 2d list
+17. Lenght of smallest tupple in a list of tupple
+18. Sum of alternate element of a matrix
+19. Check a number is weather neven or not
+20. Swapping elements of a list by n places
+21. Swapping of adjacent elements of a list
+22. Creating a dictionary with the letter of a sentence as a key and the occurance as its value
+23. Swapping keys and value of a dictionary
