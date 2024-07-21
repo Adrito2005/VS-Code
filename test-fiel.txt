@@ -1,0 +1,12 @@
+    CALENDAR:-
+    1 add Event (in ddmmyy format)
+    2 display all event 
+    3 display calender
+    4 exit
+
+
+dict.keys()
+dict.values()
+
+item = dict.items()
+for a,b in item():
